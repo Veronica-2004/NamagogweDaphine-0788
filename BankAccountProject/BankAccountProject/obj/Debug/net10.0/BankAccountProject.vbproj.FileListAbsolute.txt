@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\VERO\BankAccountProject\BankAccountProject\obj\Debug\net10.0\BankAccountProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\VERO\BankAccountProject\BankAccountProject\obj\Debug\net10.0\BankAccountProject.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\VERO\BankAccountProject\BankAccountProject\obj\Debug\net10.0\BankAccountProject.AssemblyInfo.vb
+C:\Users\user\Desktop\VERO\BankAccountProject\BankAccountProject\obj\Debug\net10.0\BankAccountProject.vbproj.CoreCompileInputs.cache
